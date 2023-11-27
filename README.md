@@ -47,5 +47,5 @@ For safe sequence, data are located in input2.txt whereas input1.txt is deadlock
 **Requirements**
 - gcc
 
-Initial Release
-1.0
+
+
