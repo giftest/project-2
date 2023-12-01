@@ -1,5 +1,3 @@
-# project-2
-Banker’s algorithm
 # Deadlock avoidance
 # Banker's Algorithm
 The program developed is a C++ implementation of Banker's Algorithm to detect deadlock.
@@ -17,7 +15,7 @@ The file contains the number of processes, the number of resource types and  the
 2 1 1
 0 0 2
 7 5 3
-3 2 2
+2 2 2
 9 0 2
 2 2 2
 4 3 3
@@ -47,5 +45,7 @@ For safe sequence, data are located in input2.txt whereas input1.txt is deadlock
 **Requirements**
 - gcc
 
+## Authors
 
+#### Gift Nwatuzie
 
